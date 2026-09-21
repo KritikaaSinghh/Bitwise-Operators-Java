@@ -1,4 +1,4 @@
-public class Problem6 {
+public class Problem06 {
 
     // Check if number is power of 2
     public static void main(String[] args) {

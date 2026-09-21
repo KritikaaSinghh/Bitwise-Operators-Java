@@ -1,4 +1,4 @@
-public class Problem7 {
+public class Problem07 {
 
     // Remove last set bit
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-public class Probelm9 {
+public class Probelm09 {
 
     // Get last set bit
     public static void main(String[] args) {

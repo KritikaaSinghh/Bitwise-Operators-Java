@@ -1,4 +1,4 @@
-public class Problem5 {
+public class Problem05 {
 
     // Count number of set bits (1s)
     public static void main(String[] args) {

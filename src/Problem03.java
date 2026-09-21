@@ -1,4 +1,4 @@
-public class Problem3 {
+public class Problem03 {
 
     // Swap two numbers using XOR
     public static void main(String[] args) {

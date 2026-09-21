@@ -1,4 +1,4 @@
-public class Problem1 {
+public class Problem01 {
 
     // Check Even or Odd
     public static void main(String[] args) {

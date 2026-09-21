@@ -1,4 +1,4 @@
-public class Problem4 {
+public class Problem04 {
 
     // Find unique element (All others appear twice)
     public static void main(String[] args) {
